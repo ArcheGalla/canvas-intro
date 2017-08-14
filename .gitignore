@@ -60,3 +60,5 @@ typings/
 .env
 
 
+/meme-generator/dist/
+/meme-generator/package-lock.json
